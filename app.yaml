@@ -1,6 +1,6 @@
 runtime: nodejs10
 
-service: node-next-gae-demo
+service: default
 handlers:
 - url: /.*
   script: auto
